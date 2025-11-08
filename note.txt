@@ -1,0 +1,2 @@
+Hello Bright!
+This is your first file in Python.
